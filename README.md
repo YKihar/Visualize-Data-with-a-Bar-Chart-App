@@ -31,7 +31,7 @@ The data for this project is sourced from the freeCodeCamp Project API: `https:/
 Yousef Kaihar
 
 *   LinkedIn: [https://www.linkedin.com/in/yousef-kaihar-b539b3276/](https://www.linkedin.com/in/yousef-kaihar-b539b3276/)
-*   GitHub: [https://github.com/YKihar](https://github.com/YKihar)
+
 
 ## Notes
 
